@@ -1,5 +1,5 @@
 import React, { useContext } from "react";
-import { NotesContext } from "./NotesContext";
+import { NotesContext } from "../context/NotesContext";
 
 function Sidebar() {
   const { notes, createNote, selectNote, updateNote, selectedNote } =

@@ -1,7 +1,7 @@
 import React from "react";
 import Sidebar from "./Sidebar";
 import Workspace from "./Workspace";
-import { NotesProvider } from "./NotesContext";
+import { NotesProvider } from "../context/NotesContext";
 
 function App() {
   return (

@@ -154,7 +154,7 @@ body {
   fill: black;
 }
 .button-add {
-  background-image: url("./plus.svg");
+  background-image: url("./images/plus.svg");
   background-repeat: no-repeat;
   background-position: center center;
   cursor: pointer;
@@ -164,7 +164,7 @@ body {
   border-radius: 5px;
 }
 .workspace-btn-delete {
-  background-image: url("./clear.svg");
+  background-image: url("./images/clear.svg");
   background-repeat: no-repeat;
   background-position: center center;
   cursor: pointer;

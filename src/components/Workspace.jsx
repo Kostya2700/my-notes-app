@@ -1,5 +1,5 @@
 import React, { useContext, useState } from "react";
-import { NotesContext } from "./NotesContext";
+import { NotesContext } from "../context/NotesContext";
 import SearchBox from "./SearchBox";
 
 function Workspace() {
