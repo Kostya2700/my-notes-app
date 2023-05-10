@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/my-notes-app/static/css/main.c6f47584.css",
+    "main.js": "/my-notes-app/static/js/main.fc880f2d.js",
+    "static/media/clear.svg": "/my-notes-app/static/media/clear.b43a900f5f7d13358d5c.svg",
+    "index.html": "/my-notes-app/index.html",
+    "static/media/plus.svg": "/my-notes-app/static/media/plus.6017682fcafc4deb7ea6.svg",
+    "main.c6f47584.css.map": "/my-notes-app/static/css/main.c6f47584.css.map",
+    "main.fc880f2d.js.map": "/my-notes-app/static/js/main.fc880f2d.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.c6f47584.css",
+    "static/js/main.fc880f2d.js"
+  ]
+}
