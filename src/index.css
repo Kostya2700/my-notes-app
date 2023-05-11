@@ -77,21 +77,32 @@ body {
   padding-left: 300px;
 }
 
+.workspace button {
+  background-repeat: no-repeat;
+  background-position: center center;
+  cursor: pointer;
+  width: 40px;
+  height: 30px;
+  padding: 10px;
+}
+.workspace-btn-delete {
+  background-image: url("./images/clear.svg");
+}
+.workspace-btn-cancel {
+  background-image: url("./images/cancel.svg");
+}
+.workspace-btn-save {
+  background-image: url("./images/save.svg");
+}
+.workspace-btn-edit {
+  background-image: url("./images/edit.svg");
+}
 .note-header {
   display: flex;
   align-items: center;
   margin-bottom: 20px;
 }
 
-.note-header button {
-  margin-right: 10px;
-  padding: 8px 12px;
-  border-radius: 4px;
-  background-color: #007bff;
-  color: #fff;
-  border: none;
-  cursor: pointer;
-}
 .note-header button {
   margin-right: 10px;
   padding: 8px 12px;
@@ -162,15 +173,4 @@ body {
   height: 24px;
   border: 1px solid black;
   border-radius: 5px;
-}
-.workspace-btn-delete {
-  background-image: url("./images/clear.svg");
-  background-repeat: no-repeat;
-  background-position: center center;
-  cursor: pointer;
-  width: 50px;
-  height: 30px;
-  border: 1px solid black;
-  border-radius: 5px;
-  padding: 10px;
 }

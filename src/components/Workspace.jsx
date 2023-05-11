@@ -48,11 +48,20 @@ function Workspace() {
               onClick={handleDelete}
             ></button>
             {!isEditing ? (
-              <button onClick={handleEdit}>Edit</button>
+              <button
+                className="workspace-btn-edit"
+                onClick={handleEdit}
+              ></button>
             ) : (
               <>
-                <button onClick={handleSave}>Save</button>
-                <button onClick={handleCancel}>Cancel</button>
+                <button
+                  className="workspace-btn-save"
+                  onClick={handleSave}
+                ></button>
+                <button
+                  className="workspace-btn-cancel"
+                  onClick={handleCancel}
+                ></button>
               </>
             )}
           </div>
