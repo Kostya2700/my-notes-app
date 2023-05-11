@@ -1,15 +1,18 @@
 {
   "files": {
-    "main.css": "/my-notes-app/static/css/main.c6f47584.css",
-    "main.js": "/my-notes-app/static/js/main.fc880f2d.js",
+    "main.css": "/my-notes-app/static/css/main.1d843a79.css",
+    "main.js": "/my-notes-app/static/js/main.26475b39.js",
+    "static/media/cancel.svg": "/my-notes-app/static/media/cancel.4ecee35406ef12cef383.svg",
+    "static/media/edit.svg": "/my-notes-app/static/media/edit.4b4b66660981240d242a.svg",
+    "static/media/save.svg": "/my-notes-app/static/media/save.fdc26c8dbd68ca85a7b5.svg",
     "static/media/clear.svg": "/my-notes-app/static/media/clear.b43a900f5f7d13358d5c.svg",
     "index.html": "/my-notes-app/index.html",
     "static/media/plus.svg": "/my-notes-app/static/media/plus.6017682fcafc4deb7ea6.svg",
-    "main.c6f47584.css.map": "/my-notes-app/static/css/main.c6f47584.css.map",
-    "main.fc880f2d.js.map": "/my-notes-app/static/js/main.fc880f2d.js.map"
+    "main.1d843a79.css.map": "/my-notes-app/static/css/main.1d843a79.css.map",
+    "main.26475b39.js.map": "/my-notes-app/static/js/main.26475b39.js.map"
   },
   "entrypoints": [
-    "static/css/main.c6f47584.css",
-    "static/js/main.fc880f2d.js"
+    "static/css/main.1d843a79.css",
+    "static/js/main.26475b39.js"
   ]
 }
